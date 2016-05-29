@@ -1,0 +1,14 @@
+﻿Build started 29.05.2016 17:32:12.
+     1>Project "C:\Users\Admin\documents\visual studio 2013\Projects\TriangleDet\TriangleDet\TriangleDet.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IF:\OpenCV\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Dafuq.cpp
+         Dafuq.cpp
+     1>Dafuq.cpp(46): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+       Link:
+         F:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\documents\visual studio 2013\Projects\TriangleDet\x64\Debug\TriangleDet.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\OpenCV\x64\vc12\lib opencv_core310d.lib opencv_imgproc310d.lib opencv_highgui310d.lib opencv_videoio310d.lib opencv_calib3d310d.lib opencv_highgui310.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\documents\visual studio 2013\Projects\TriangleDet\x64\Debug\TriangleDet.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\documents\visual studio 2013\Projects\TriangleDet\x64\Debug\TriangleDet.lib" /MACHINE:X64 x64\Debug\Dafuq.obj
+         TriangleDet.vcxproj -> C:\Users\Admin\documents\visual studio 2013\Projects\TriangleDet\x64\Debug\TriangleDet.exe
+     1>Done Building Project "C:\Users\Admin\documents\visual studio 2013\Projects\TriangleDet\TriangleDet\TriangleDet.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.07
